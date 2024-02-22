@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/46308912?s=96&v=4" alt="Accounting Archive Logo" width="80" height="80">
+  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Accounting Archive Logo" width="80" height="80">
   <h1 align="center">Accounting Archive: Your Ultimate Financial Management Solution</h1>
   <p align="center">
     Revolutionizing financial management with unrivaled simplicity and efficiency.
